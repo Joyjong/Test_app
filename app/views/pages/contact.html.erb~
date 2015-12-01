@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Ruby on rails|<%=@title%></title>
+<title>Ruby on rails|Contact</title>
 </head>
 <body>
 <h1>Contact</h1>

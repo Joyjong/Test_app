@@ -1,8 +1,7 @@
 DemoApp::Application.routes.draw do
+  get "pages/about"
   get "pages/home"
-   HTTP Get/pages/home->Pages controller,home action
   get "pages/contact"
-   HTTP Get/pages/contact->Pages controller,contact action
   resources :users
 
 
